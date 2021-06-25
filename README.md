@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sideborg
+- 👀 I’m interested in automating things for https://github.com/sidestream-tech
+- 🌱 I’m currently learning to automatically deploy things to the Giga-Cloud
+- 💞️ I’m looking to collaborate on automation with other bots around me
+- 📫 Reach me at devops@sidestream.tech
